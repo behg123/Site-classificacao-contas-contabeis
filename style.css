@@ -1,0 +1,43 @@
+.titulo{
+    font-size: 92px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color:black;
+}
+
+.subtitulo{
+    font-size: 54px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color:black;
+    padding-bottom: 100px;
+}
+
+.tituloSegundo{
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
+
+.descricao{
+   font-size: 20px;
+   color: white;
+   margin-top: 10px;
+}
+
+.square {
+    height: 500px;
+    width: 50px;
+    background-color: black;
+    border-radius: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+
+.background{
+    background-image: URL(https://upload.wikimedia.org/wikipedia/commons/d/d0/Elegant_Background-3.jpg);
+    background-repeat: no-repeat;
+
+
+}
